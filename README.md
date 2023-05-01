@@ -187,3 +187,6 @@ The correct implementation of expectimax will lead to Pacman losing some of the 
 ## Question 5 (6 points): Evaluation Function
 
 Write a better evaluation function for pacman in the provided function betterEvaluationFunction. The evaluation function should evaluate states, rather than actions like your reflex agent evaluation function did. With depth 2 search, your evaluation function should clear the smallClassic layout with one random ghost more than half the time and still run at a reasonable rate (to get full credit, Pacman should be averaging around 1000 points when he’s winning).
+
+
+(https://www.csie.ntu.edu.tw/~stchen/teaching/fai23/hw2/hw2.html)
